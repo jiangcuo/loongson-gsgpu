@@ -1,4 +1,4 @@
-loongson-gsgpu (1.0) pve; urgency=medium
+loongson-gsgpu-firmware (1.0) pve; urgency=medium
 
   * add init .
 

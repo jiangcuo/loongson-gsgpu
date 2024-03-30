@@ -1,11 +1,11 @@
-Source: loongson-gsgpu
+Source: loongson-gsgpu-firmware
 Section: admin
 Priority: optional
 Build-Depends: debhelper-compat (= 12),
 Maintainer: jiangcuo <jiangcuo@bingsin.com>
 Standards-Version: 1.0
 
-Package: loongson-gsgpu
+Package: loongson-gsgpu-firmware
 Architecture: loong64
 Depends: ${misc:Depends}
 Description: loongson-gsgpu
