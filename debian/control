@@ -1,0 +1,11 @@
+Source: loongson-gsgpu
+Section: admin
+Priority: optional
+Build-Depends: debhelper-compat (= 12),
+Maintainer: jiangcuo <jiangcuo@bingsin.com>
+Standards-Version: 1.0
+
+Package: loongson-gsgpu
+Architecture: loong64
+Depends: ${misc:Depends}
+Description: loongson-gsgpu

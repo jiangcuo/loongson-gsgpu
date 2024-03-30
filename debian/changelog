@@ -1,0 +1,5 @@
+loongson-gsgpu (1.0) pve; urgency=medium
+
+  * add init .
+
+ -- jiangcuo <jiangcuo@bingsin.com>  Tue, 02 Jan 2024 09:26:03 +0800
